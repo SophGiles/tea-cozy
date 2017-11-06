@@ -112,6 +112,11 @@ p {
   display: block;
 }
 
+#contact {
+  display: block;
+  width: 100%;
+}
+
 footer {
   text-align: left;
   padding-left: 20px;
